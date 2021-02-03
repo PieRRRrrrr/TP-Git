@@ -1,0 +1,3 @@
+Exercice 1 : Premiers pas avec GIT
+
+Création du fichier dans le dossier.
